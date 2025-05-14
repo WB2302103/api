@@ -1,1 +1,26 @@
 
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Flutter T-Shirt",
+      "price": 15.99,
+      "category": "Clothing",
+      "image_url": "https://example.com/flutter_tshirt.png"
+    },
+    {
+      "id": 2,
+      "name": "Flutter Mug",
+      "price": 9.99,
+      "category": "Accessories",
+      "image_url": "https://example.com/flutter_mug.png"
+    },
+    {
+      "id": 3,
+      "name": "Flutter Stickers",
+      "price": 5.99,
+      "category": "Stationery",
+      "image_url": "https://example.com/flutter_stickers.png"
+    }
+  ]
+}
